@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "cookie": "^0.5.0",
+    "js-cookie": "^3.0.5",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   }
 }
